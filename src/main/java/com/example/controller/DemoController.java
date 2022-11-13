@@ -15,7 +15,7 @@ public class DemoController {
     	String response="Hello world";
     	logger.info("Response from the application logs {}",response);
 		
-		return "browser output";
+		return "Output is executed";
 	
 		
 	}
