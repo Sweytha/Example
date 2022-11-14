@@ -15,7 +15,7 @@ public class DemoController {
     	String response="Hello world";
     	logger.info("Response from the application logs {}",response);
 		
-		return "Output is executed";
+		return "Output is executed and its working now";
 	
 		
 	}
